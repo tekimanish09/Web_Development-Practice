@@ -1,0 +1,44 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+h1 {
+  color: #fbbc42;
+  background-color: #01080a;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+  background-color: #d67239;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+}
+p {
+  color: #1c4595;
+  text-align: justify;
+  padding: 10px;
+  font-size: medium;
+}
+
+#Goku999 {
+  width: 5%;
+  max-width: 100px;
+  margin: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div{
+  padding: 1px;
+}
+#box3{
+  padding-bottom: 15px;
+}

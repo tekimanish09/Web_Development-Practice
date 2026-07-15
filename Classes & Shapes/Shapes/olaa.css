@@ -1,0 +1,81 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  padding: 20px;
+}
+/* div {
+  height: 30%;
+  width: 30%;
+} */
+
+div{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+#Vada {
+  display: flex;
+  height: 30%;
+  width: 30%;
+}
+
+#dabba01 {
+  background-color: aquamarine;
+  height: 90%;
+  width: 90%;
+}
+#dabba02 {
+  background-color: burlywood;
+  height: 90%;
+  width: 90%;
+}
+#dabba03 {
+  background-color: brown;
+  height: 30%;
+  width: 30%;
+}
+
+#Round{
+    display: flex;
+    height: 300px;
+    width: 500px;
+}
+
+#dabba04 {
+  background-color: mediumaquamarine;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+#dabba05 {
+  background-color: mediumaquamarine;
+  height: 100%;
+  width: 600px;
+  border-radius: 50%;
+}
+
+/* h1 {
+  color: #fbbc42;
+  background-color: #01080a;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+} */
+
+/* p {
+  color: #1c4595;
+  text-align: justify;
+  padding: 10px;
+  font-size: medium;
+} */

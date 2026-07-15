@@ -1,0 +1,21 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: burlywood;
+    color: rgb(167, 70, 1);
+}
+.colorbaby{
+    color: azure;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
