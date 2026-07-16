@@ -9,3 +9,66 @@ body {
   height: 100%;
   width: 100%;
 }
+#main {
+  height: 100%;
+  width: 100%;
+}
+#header {
+  height: 10vh;
+  width: 100vw;
+  background-color: white;
+  position: fixed;
+  display: flex;
+}
+#FakeHeader {
+  height: 10vh;
+  width: 100vw;
+  background-color: bisque;
+}
+#VisibleHeader {
+  height: 6vh;
+  width: 100vw;
+  color: white;
+  background-color: darkblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pages {
+  height: 90vh;
+  width: 100vw;
+}
+#page1 {
+  background-color: aqua;
+}
+#page2 {
+  background-color: burlywood;
+}
+/* #page3 {
+  background-color: navy;
+  } */
+
+img {
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
+.texts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  padding-left: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Products:hover,
+#Industries:hover,
+#Customers:hover,
+#Events:hover,
+#Learning:hover,
+#More:hover {
+  color: rgb(14, 177, 177);
+  font-weight: bold;
+}
